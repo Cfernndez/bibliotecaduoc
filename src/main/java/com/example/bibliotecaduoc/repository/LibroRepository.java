@@ -36,7 +36,7 @@ public class LibroRepository {
     }
 
     public Libro guardar (Libro book){
-        listaLibros.add(book){
+        listaLibros.add(book);{
             return book;
         }
     }
